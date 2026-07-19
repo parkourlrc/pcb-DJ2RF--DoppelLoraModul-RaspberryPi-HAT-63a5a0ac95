@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "Fritz_Lib") (type "KiCad") (uri "D:/LoRa-MeshRadio-Analyzer-RF-Monitor/SchaltplanHat/DoppelLoraModulauf Raspi/Fritz_Lib.kicad_sym") (options "") (descr ""))
+)

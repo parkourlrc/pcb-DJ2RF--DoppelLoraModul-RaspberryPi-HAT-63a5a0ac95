@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Prolivia") (type "KiCad") (uri "D:/LoRa-MeshRadio-Analyzer-RF-Monitor/SchaltplanHat/DoppelLoraModulauf Raspi/Prolivia.pretty") (options "") (descr ""))
+	(lib (name "nerdverlag") (type "KiCad") (uri "D:/LoRa-MeshRadio-Analyzer-RF-Monitor/SchaltplanHat/DoppelLoraModulauf Raspi/nerdverlag.pretty") (options "") (descr ""))
+)
