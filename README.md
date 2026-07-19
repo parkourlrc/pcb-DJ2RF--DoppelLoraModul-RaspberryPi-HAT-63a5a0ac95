@@ -1,5 +1,11 @@
 # English below
 
+<p align="center">
+  <img src="images/oben.jpg"
+       alt="Dual LoRa HAT for Raspberry Pi"
+       width="700">
+</p>
+
 # DoppelLoraModul-RaspberryPi-HAT
 Raspberry HAT for Nerdverlag LoRa Analyser or any other projects 
 # Doppel-LoRa-HAT für Raspberry Pi
