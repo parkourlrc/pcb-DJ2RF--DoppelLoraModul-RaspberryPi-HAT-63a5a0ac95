@@ -10,11 +10,15 @@
 Raspberry HAT for Nerdverlag LoRa Analyser or any other projects 
 # Doppel-LoRa-HAT für Raspberry Pi
 
-Dieses KiCad-Projekt enthält die Schaltung und das Leiterplattenlayout für ein Raspberry-Pi-HAT mit zwei unabhängigen LoRa-Funkmodulen auf Basis des **Semtech SX1262**.
+Dieses KiCad-Projekt enthält die Schaltung und das Leiterplattenlayout für ein Raspberry-Pi-HAT mit zwei unabhängigen 
+LoRa-Funkmodulen auf Basis des **Semtech SX1262**.
 
-Die Platine wurde für den gleichzeitigen Betrieb eines 433-MHz- und eines 863/868-MHz-Moduls entwickelt. Beide Funkmodule verwenden den gemeinsamen SPI0-Bus des Raspberry Pi, besitzen jedoch getrennte Chip-Select-, Reset-, Busy-, Interrupt- und HF-Umschaltleitungen.
+Die Platine wurde für den gleichzeitigen Betrieb eines 433-MHz- und eines 863/868-MHz-Moduls entwickelt. 
+Beide Funkmodule verwenden den gemeinsamen SPI0-Bus des Raspberry Pi, besitzen jedoch getrennte Chip-Select-, 
+Reset-, Busy-, Interrupt- und HF-Umschaltleitungen.
 
-Das HAT ist insbesondere für den Einsatz mit dem **LoRa MeshRadio Analyzer** und weiteren Raspberry-Pi-basierten LoRa-Empfangs- und Analyseprojekten vorgesehen.
+Das HAT ist insbesondere für den Einsatz mit dem **LoRa MeshRadio Analyzer** und weiteren 
+Raspberry-Pi-basierten LoRa-Empfangs- und Analyseprojekten vorgesehen.
 
 ---
 
@@ -96,7 +100,8 @@ Verwendet werden die reservierten Leitungen:
 ID_SD
 ID_SC
 
-Diese Leitungen sind ausschließlich für den HAT-ID-EEPROM vorgesehen und dürfen nicht für die normale I²C-Kommunikation verwendet werden.
+Diese Leitungen sind ausschließlich für den HAT-ID-EEPROM vorgesehen und dürfen nicht für die
+normale I²C-Kommunikation verwendet werden.
 
 Inhalt des Repositorys
 
@@ -109,7 +114,8 @@ fp-lib-table
 sym-lib-table
 Nerdverlag.pretty/
 
-Eigene Symbole und Footprints werden zusammen mit dem Projekt gespeichert, damit der Schaltplan und das Leiterplattenlayout auch auf anderen Rechnern vollständig geöffnet werden können.
+Eigene Symbole und Footprints werden zusammen mit dem Projekt gespeichert, damit der Schaltplan und das
+Leiterplattenlayout auch auf anderen Rechnern vollständig geöffnet werden können.
 
 Automatisch erzeugte KiCad-Backups, Sperrdateien und persönliche Arbeitsplatzdateien werden nicht versioniert.
 
@@ -147,9 +153,11 @@ Eine Fertigung sollte immer auf Grundlage eines abschließend geprüften Version
 
 Hinweis zum Funkbetrieb
 
-Für den Funkbetrieb gelten die jeweils nationalen Vorschriften zu Frequenzbereichen, Sendeleistungen, Bandbreiten und zulässigen Anwendungen.
+Für den Funkbetrieb gelten die jeweils nationalen Vorschriften zu Frequenzbereichen,
+Sendeleistungen, Bandbreiten und zulässigen Anwendungen.
 
-Der Betreiber ist selbst dafür verantwortlich, die gesetzlichen Bestimmungen und gegebenenfalls die für den Amateurfunk geltenden Regelungen einzuhalten.
+Der Betreiber ist selbst dafür verantwortlich, die gesetzlichen Bestimmungen und
+gegebenenfalls die für den Amateurfunk geltenden Regelungen einzuhalten.
 
 Die Platine selbst stellt lediglich die technische Hardwareplattform bereit.
 
@@ -157,7 +165,8 @@ Lizenz und Nutzung
 
 Dieses Projekt ist für eigene Entwicklungs-, Forschungs- und Ausbildungszwecke vorgesehen.
 
-Eine kommerzielle Nutzung, Weitergabe oder Fertigung ist nur nach vorheriger Zustimmung des Rechteinhabers gestattet, sofern keine separate Lizenzdatei etwas anderes festlegt.
+Eine kommerzielle Nutzung, Weitergabe oder Fertigung ist nur nach vorheriger Zustimmung des Rechteinhabers gestattet,
+sofern keine separate Lizenzdatei etwas anderes festlegt.
 
 Autor
 
@@ -174,11 +183,15 @@ Alle Rechte vorbehalten.
 
 # Dual LoRa HAT for Raspberry Pi
 
-This KiCad project contains the schematic and PCB layout for a Raspberry Pi HAT with two independent LoRa radio modules based on the **Semtech SX1262**.
+This KiCad project contains the schematic and PCB layout for a Raspberry Pi HAT with two independent
+LoRa radio modules based on the **Semtech SX1262**.
 
-The board was designed for the simultaneous operation of one 433 MHz module and one 863/868 MHz module. Both radio modules share the Raspberry Pi SPI0 bus, while using separate chip-select, reset, busy, interrupt, and RF switch control lines.
+The board was designed for the simultaneous operation of one 433 MHz module and one 863/868 MHz module.
+Both radio modules share the Raspberry Pi SPI0 bus, while using separate chip-select,
+reset, busy, interrupt, and RF switch control lines.
 
-The HAT is primarily intended for use with the **LoRa MeshRadio Analyzer** and other Raspberry Pi-based LoRa receiver and analysis projects.
+The HAT is primarily intended for use with the **LoRa MeshRadio Analyzer**
+and other Raspberry Pi-based LoRa receiver and analysis projects.
 
 ---
 
@@ -273,7 +286,8 @@ fp-lib-table
 sym-lib-table
 Nerdverlag.pretty/
 
-Custom symbols and footprints are stored together with the project so that the schematic and PCB layout can also be opened completely on another computer.
+Custom symbols and footprints are stored together with the project so that the schematic and PCB layout
+can also be opened completely on another computer.
 
 Automatically generated KiCad backups, lock files, and personal workspace files are not included in version control.
 
@@ -311,7 +325,8 @@ Manufacturing should always be based on a final, fully verified version of the p
 
 Radio Operation Notice
 
-Radio operation is subject to the applicable national regulations concerning frequency ranges, transmission power, bandwidth, duty cycle, and permitted applications.
+Radio operation is subject to the applicable national regulations concerning frequency ranges, transmission power,
+bandwidth, duty cycle, and permitted applications.
 
 The operator is responsible for complying with all applicable legal requirements and, where relevant, amateur radio regulations.
 
@@ -321,7 +336,8 @@ License and Use
 
 This project is intended for personal development, research, and educational purposes.
 
-Commercial use, redistribution, or manufacturing requires prior permission from the copyright holder unless a separate license file explicitly permits such use.
+Commercial use, redistribution, or manufacturing requires prior permission from the copyright holder unless
+a separate license file explicitly permits such use.
 
 Author
 
