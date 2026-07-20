@@ -163,6 +163,8 @@ Autor
 Friedrich Riedhammer – DJ2RF
 Nerdverlag
 
+https://nerdverlag.com
+
 E-Mail: fritz@nerdverlag.com
 
 (c) 2026 Nerdverlag
@@ -322,6 +324,7 @@ Author
 
 Friedrich Riedhammer – DJ2RF
 Nerdverlag
+https://nerdverlag.com
 
 Email: fritz@nerdverlag.com
 
