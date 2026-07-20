@@ -63,7 +63,6 @@ Die Module werden über getrennte Chip-Select-Leitungen angesprochen.
 
 Linux-Gerät:
 
-```text
 /dev/spidev0.0
 433-MHz-Modul
 Funktion	Raspberry Pi GPIO	Physischer Pin
@@ -230,7 +229,6 @@ The modules are addressed using separate chip-select lines.
 
 Linux device:
 
-```text
 /dev/spidev0.0
 433 MHz Module
 Function	Raspberry Pi GPIO	Physical Pin
