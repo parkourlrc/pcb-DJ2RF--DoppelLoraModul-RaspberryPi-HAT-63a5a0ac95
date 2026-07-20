@@ -93,16 +93,6 @@ Die Antennen werden direkt an den U.FL-/IPEX-Anschlüssen der jeweiligen Core126
 
 HAT-ID-EEPROM
 
-Die Platine enthält zusätzlich einen EEPROM für die Raspberry-Pi-HAT-Identifikation.
-
-Verwendet werden die reservierten Leitungen:
-
-ID_SD
-ID_SC
-
-Diese Leitungen sind ausschließlich für den HAT-ID-EEPROM vorgesehen und dürfen nicht für die
-normale I²C-Kommunikation verwendet werden.
-
 Inhalt des Repositorys
 
 Das Repository enthält die wesentlichen KiCad-Projektdateien:
@@ -263,17 +253,6 @@ Use as a radio frontend for the LoRa MeshRadio Analyzer
 Development of custom Raspberry Pi LoRa applications
 
 The antennas are connected directly to the U.FL/IPEX connectors on the respective Core1262 modules.
-
-HAT ID EEPROM
-
-The board also contains an EEPROM for Raspberry Pi HAT identification.
-
-The reserved HAT ID lines are used:
-
-ID_SD
-ID_SC
-
-These lines are intended exclusively for the HAT ID EEPROM and must not be used for normal I²C communication.
 
 Repository Contents
 
