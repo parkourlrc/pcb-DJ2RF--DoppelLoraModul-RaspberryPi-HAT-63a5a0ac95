@@ -158,18 +158,20 @@ Dieses Projekt ist für eigene Entwicklungs-, Forschungs- und Ausbildungszwecke 
 Eine kommerzielle Nutzung, Weitergabe oder Fertigung ist nur nach vorheriger Zustimmung des Rechteinhabers gestattet,
 sofern keine separate Lizenzdatei etwas anderes festlegt.
 
-Autor
+## Author
 
-Friedrich Riedhammer – DJ2RF
-Nerdverlag
+**Friedrich Riedhammer – DJ2RF**  
+**Nerdverlag**
 
-[Nerdverlag](https://nerdverlag.com)
+[Visit Nerdverlag](https://nerdverlag.com)
 
-E-Mail: fritz@nerdverlag.com
+Email: [fritz@nerdverlag.com](mailto:fritz@nerdverlag.com)
 
-(c) 2026 Nerdverlag
-Friedrich Riedhammer
-Alle Rechte vorbehalten.
+---
+
+© 2026 Nerdverlag  
+Friedrich Riedhammer  
+All rights reserved.
 
 # English
 
@@ -320,15 +322,17 @@ This project is intended for personal development, research, and educational pur
 Commercial use, redistribution, or manufacturing requires prior permission from the copyright holder unless
 a separate license file explicitly permits such use.
 
-Author
+## Author
 
-Friedrich Riedhammer – DJ2RF
-Nerdverlag
+**Friedrich Riedhammer – DJ2RF**  
+**Nerdverlag**
 
-[Nerdverlag](https://nerdverlag.com)
+[Visit Nerdverlag](https://nerdverlag.com)
 
-Email: fritz@nerdverlag.com
+Email: [fritz@nerdverlag.com](mailto:fritz@nerdverlag.com)
 
-(c) 2026 Nerdverlag
-Friedrich Riedhammer
+---
+
+© 2026 Nerdverlag  
+Friedrich Riedhammer  
 All rights reserved.
