@@ -164,6 +164,8 @@ sofern keine separate Lizenzdatei etwas anderes festlegt.
 
 [Visit Nerdverlag](https://nerdverlag.com)
 
+[You can get the Software LoRa Analyser for free](https://nerdverlag.com/?page_id=892)
+
 Email: [fritz@nerdverlag.com](mailto:fritz@nerdverlag.com)
 
 ---
@@ -326,6 +328,8 @@ a separate license file explicitly permits such use.
 **Nerdverlag**
 
 [Visit Nerdverlag](https://nerdverlag.com)
+
+[You can get the Software LoRa Analyser for free](https://nerdverlag.com/?page_id=901&lang=en)
 
 Email: [fritz@nerdverlag.com](mailto:fritz@nerdverlag.com)
 
